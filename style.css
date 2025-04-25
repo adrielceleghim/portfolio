@@ -188,14 +188,14 @@ nav ul li a:hover {
 }
 
 #contato ul li a:hover {
-    color: #ffcc00; /* Cor dourada ao passar o mouse */
+    color: #ffffff; /* Cor dourada ao passar o mouse */
 }
 
 /* Rodapé */
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #0d6da5;
+    background-color: #ffffff;
     color: #fff;
     position: fixed;
     width: 100%;
