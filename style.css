@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(45deg, #00ffaa, #ffffff); /* Gradiente de fundo */
+    background: linear-gradient(45deg, hsl(199, 85%, 61%), #ffffff); /* Gradiente de fundo */
     color: #000000;
     line-height: 1.6;
     padding: 0 20px;
@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #00ff6a; /* Cor dourada ao passar o mouse */
+    color: #42d3ff; /* Cor dourada ao passar o mouse */
 }
 
 /* Seção sobre */
