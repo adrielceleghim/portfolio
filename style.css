@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #42d3ff; /* Cor dourada ao passar o mouse */
+    color: #ffffff; /* Cor dourada ao passar o mouse */
 }
 
 /* Seção sobre */
@@ -55,7 +55,7 @@ nav ul li a:hover {
 #sobre h1 {
     font-size: 3rem;
     margin-bottom: 20px;
-    color: lch(35.69% 87.06 297.57);
+    color: lch(0% 0 0);
 }
 
 #sobre p {
